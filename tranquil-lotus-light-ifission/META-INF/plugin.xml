@@ -1,0 +1,25 @@
+<idea-plugin>
+  <version>0.0.4</version>
+  <change-notes>&lt;h3&gt;Added&lt;/h3&gt;
+
+&lt;h3&gt;Changed&lt;/h3&gt;
+
+&lt;h3&gt;Deprecated&lt;/h3&gt;
+
+&lt;h3&gt;Removed&lt;/h3&gt;
+
+&lt;h3&gt;Fixed&lt;/h3&gt;
+
+&lt;h3&gt;Security&lt;/h3&gt;</change-notes>
+  <description>&lt;p&gt;This theme is dimmer and easier on the eyes than the default Intellij themes as well as other light themes that I have come across. The inspiration for this theme codes from the Quiet Light theme bundled in Visual studio code, you might notice that the background colours are the same.&lt;/p&gt;</description>
+  <idea-version since-build="193" until-build="222.*" />
+  <id>dev.lankydan.tranquil</id>
+  <name>Tranquil Light Theme</name>
+  <vendor>lankydan</vendor>
+  <!-- Product and plugin compatibility requirements -->
+  <!-- https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html -->
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="179dcc8a-589a-4893-a4b3-5562e0650764" path="/themes/tranquil-light-theme.json" />
+  </extensions>
+</idea-plugin>
