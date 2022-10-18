@@ -1,8 +1,8 @@
 {
-    "name": "Obsidian",
+    "name": "obsidian-lotus-dark-ifission",
     "dark": true,
-    "author": "Fernando Jiménez",
-    "editorScheme": "/themes/Obsidian.xml",
+    "author": "iFission",
+    "editorScheme": "/lotus-dark-ifission.xml",
     "ui": {
         "*": {
             "acceleratorForeground": "#abb9bc",

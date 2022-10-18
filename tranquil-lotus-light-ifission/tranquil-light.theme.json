@@ -1,8 +1,8 @@
 {
-  "name": "Tranquil Light",
+  "name": "tranquil-lotus-light-ifission",
   "dark": false,
-  "author": "Dan Newton",
-  "editorScheme": "/themes/tranquil-light.xml",
+  "author": "ifission",
+  "editorScheme": "/lotus-light-ifission.xml",
   "colors": {
     "backgroundLight": "#f3f3f3",
     "backgroundDark": "#eaeaea",
