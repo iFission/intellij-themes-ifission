@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>ifission.tranquil.theme</id>
     <name>tranquil-lotus-light-ifission</name>
-    <version>0.0.3</version>
+    <version>0.0.4</version>
     <vendor email="ifission@gmail.com" url="https://github.com/iFission">iFission</vendor>
 
     <!-- please see
