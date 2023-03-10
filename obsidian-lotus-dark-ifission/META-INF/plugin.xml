@@ -1,13 +1,16 @@
 <idea-plugin>
     <id>ifission.obsidian.theme</id>
     <name>obsidian-lotus-dark-ifission</name>
-    <version>0.0.1</version>
+    <version>0.0.3</version>
     <vendor email="ifission@gmail.com" url="https://github.com/iFission">iFission</vendor>
 
-    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-    <idea-version since-build="191.0"/>
+    <!-- please see
+    http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for
+    description -->
+    <idea-version since-build="191.0" />
 
-    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+    <!-- please see
+    http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
     <!-- uncomment to enable plugin in all products
     <depends>com.intellij.modules.lang</depends>
@@ -15,7 +18,7 @@
     <depends>com.intellij.modules.lang</depends>
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
-        <themeProvider id="c552d8de-c7e3-4189-8953-773a1931e3cd" path="/obsidian.theme.json"/>
+        <themeProvider id="c552d8de-c7e3-4189-8953-773a1931e3cd" path="/obsidian.theme.json" />
     </extensions>
 
     <actions>
